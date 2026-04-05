@@ -52,4 +52,4 @@ I developed a **Dynamic Classification Engine** (`get_market_badge`) that uses t
 
 ### 👤 Contact & Links
 **Narmatha Annadurai** – Data Analyst  
-[LinkedIn Profile](https://www.linkedin.com/in/narmathaannadurai03) | [LeetCode](https://leetcode.com/u/narmathaannadurai03/)
+[LinkedIn Profile](https://www.linkedin.com/in/narmatha-annadurai-32ba14237/) | [LeetCode](https://leetcode.com/u/narmathaannadurai03/) Solved 300+ Database problems 
