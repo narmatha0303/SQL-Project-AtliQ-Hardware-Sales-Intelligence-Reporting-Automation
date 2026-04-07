@@ -1,4 +1,5 @@
 # AtliQ Hardware: Sales Intelligence & Reporting Automation
+## [View Full SQL Project Report (PDF)](./SQL%20Project.pdf)
 
 ## 📌 Executive Summary
 This project involved architecting a high-performance SQL-based analytical framework to automate sales reporting for a global hardware manufacturer. By shifting business logic from manual Excel processes to **Server-Side Stored Procedures** and **UDFs**, I reduced reporting latency by **95%** and established a standardized "Single Source of Truth" for global stakeholders.
